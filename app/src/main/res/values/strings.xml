@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Hiking Transmitter</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="beforStart">Перед началом использования</string>
+    <string name="forFirstUserManual">Для первого пользователя</string>
+    <string name="forSecondUserManual">Для второго пользователя</string>
+    <string name="_1">1. Нажмите на кнопку для перехода</string>
+    <string name="_2">в настройки точки доступа</string>
+    <string name="settings">Настройки</string>
+    <string name="_3">2. Включите точку доступа</string>
+    <string name="_5">• Запомните название точки доступа</string>
+    <string name="_6">• При необходимости перейдите в настройки пароля</string>
+    <string name="_7">1. Нажмите на кнопку для перехода</string>
+    <string name="_8">в найстроки WI-FI</string>
+    <string name="_9">2. Включите WI-FI</string>
+    <string name="_10">• Найдите название точки доступа первого пользователя</string>
+    <string name="_11">• Подключитесь к ней, при необходимости введите пароль</string>
+    <string name="whoAreU">Какой вы пользователь?</string>
+    <string name="imFirst">Я первый</string>
+    <string name="imSecond">Я второй</string>
+    <string name="how">Выбирайте только тогда, когда прошли пункт \" Перед началом использования \"</string>
+    <string name="speak">Говорить</string>
+    <string name="disconnect">Отключиться</string>
+</resources>
